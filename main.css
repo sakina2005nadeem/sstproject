@@ -250,6 +250,7 @@ a:hover{
 	animation:zoom 30s infinite;
 	background-position:top;
 	align-content:left;
+	overflow-x:hidden;
 }
 
 .home .card{
