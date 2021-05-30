@@ -62,7 +62,7 @@ a:hover{
 .load .loader-text {
     overflow: hidden; 
     border-right: 0.15em solid #fff; 
-    white-space: nowrap; 
+    white-space: normal; 
     margin: 0 auto; 
     letter-spacing: 0.15em; 
     animation: 
